@@ -1,0 +1,5 @@
+C:\Users\nxn\Documents\Visual Studio 2012\Projects\ModuleDemo\ModuleDemo\bin\ModuleDemo.dll
+C:\Users\nxn\Documents\Visual Studio 2012\Projects\ModuleDemo\ModuleDemo\bin\ModuleDemo.pdb
+C:\Users\nxn\Documents\Visual Studio 2012\Projects\ModuleDemo\ModuleDemo\obj\Release\ModuleDemo.csprojResolveAssemblyReference.cache
+C:\Users\nxn\Documents\Visual Studio 2012\Projects\ModuleDemo\ModuleDemo\obj\Release\ModuleDemo.dll
+C:\Users\nxn\Documents\Visual Studio 2012\Projects\ModuleDemo\ModuleDemo\obj\Release\ModuleDemo.pdb
